@@ -1,0 +1,15 @@
+# Obsidian cache & UI
+.obsidian/workspace*
+.obsidian/cache
+.obsidian/plugins/obsidian-git/data.json
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Python venvs
+.venv/
+
+# Midlertidige filer
+*.tmp
+
