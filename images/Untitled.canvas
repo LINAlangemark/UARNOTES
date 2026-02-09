@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"76478a7d70c62e87","type":"text","text":"ṗ = J q̇","x":58,"y":320,"width":99,"height":60},
+		{"id":"1703a5ee0c31d16c","type":"text","text":"Jacobian: J(q)","x":-141,"y":240,"width":145,"height":56},
+		{"id":"041751af9569014a","type":"text","text":"kinematik: p(q)","x":-152,"y":140,"width":167,"height":59},
+		{"id":"833ae61e25c68024","type":"text","text":"q: generaliseret koordinat","x":-183,"y":20,"width":229,"height":50},
+		{"id":"cad3c19c587f5e58","x":39,"y":460,"width":120,"height":60,"type":"text","text":"L = T − V"},
+		{"id":"6383dd7dd376401f","type":"text","text":"$E_{kin}$ $E_{pot}$","x":220,"y":403,"width":105,"height":57},
+		{"id":"dcb277ebe95f4b05","x":-183,"y":580,"width":171,"height":60,"type":"text","text":"Euler–Lagrange"},
+		{"id":"927843e5eee91f46","x":39,"y":660,"width":202,"height":62,"type":"text","text":"Bevægelsesligninger"}
+	],
+	"edges":[
+		{"id":"ea13bec0c011216f","fromNode":"833ae61e25c68024","fromSide":"bottom","toNode":"041751af9569014a","toSide":"top"},
+		{"id":"b996fe0d91aeb2b0","fromNode":"041751af9569014a","fromSide":"bottom","toNode":"1703a5ee0c31d16c","toSide":"top"},
+		{"id":"aacc527b1ed310ab","fromNode":"1703a5ee0c31d16c","fromSide":"bottom","toNode":"76478a7d70c62e87","toSide":"left"},
+		{"id":"24e10b6384a3a34f","fromNode":"76478a7d70c62e87","fromSide":"right","toNode":"6383dd7dd376401f","toSide":"top"},
+		{"id":"bd357e51d5ade846","fromNode":"6383dd7dd376401f","fromSide":"bottom","toNode":"cad3c19c587f5e58","toSide":"right"},
+		{"id":"6798ef79ef698abe","fromNode":"cad3c19c587f5e58","fromSide":"left","toNode":"dcb277ebe95f4b05","toSide":"top"},
+		{"id":"db5569227659df32","fromNode":"dcb277ebe95f4b05","fromSide":"right","toNode":"927843e5eee91f46","toSide":"top"}
+	]
+}
