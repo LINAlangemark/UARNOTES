@@ -1,3 +1,4 @@
+![[Pasted image 20260209091817.png]]
 ### The problem Euler-Lagrange is solving
 Newton’s method:
 - Draw free-body diagrams
@@ -132,7 +133,7 @@ This is the form used for:
 - simulation
 - control
 - numerical integration
-
+![[Pasted image 20260209095338.png]]
 ---
 ####  Coriolis & centrifugal terms
 ![[Pasted image 20260204084200.png]]
