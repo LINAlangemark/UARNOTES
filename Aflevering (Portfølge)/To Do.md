@@ -1,0 +1,8 @@
+- [ ] Lav System Diagram
+- [ ] Opskrive Modellering
+- [ ] Herunder Euler Lagrange
+- [ ] Lave Lineariseringen i Latex
+- [ ] Vise hvilke plots? (energikurver ig...)
+- [ ] Vurder Controllability/Observability
+- [ ] Stabilitetsanalyse?
+- [ ] 
