@@ -18,3 +18,24 @@ tilføj sensorer? --> til at bestemme observerbarhed og kontrollerbarhed
 Hvordan ved jeg at inputtet demuxer rigtigt?
 
 
+![[Pasted image 20260308114833.png]]Kinematics
+↓
+Dynamics (Newton-Euler intuition)
+↓
+Energi (Ekin, Epot)
+↓
+Lagrangian L = Ekin - Epot
+↓
+Euler–Lagrange ligninger
+↓
+Standardform
+B(q)q¨ + C(q,q˙)q˙ + g(q) = τ
+↓
+Underactuated form
+B(q)q¨ + C(q,q˙)q˙ + g(q) = G(q)u
+↓
+Rotor model
+↓
+State-space
+
+![[Pasted image 20260309095100.png]]
