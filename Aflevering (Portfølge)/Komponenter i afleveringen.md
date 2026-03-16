@@ -9,13 +9,13 @@ HUSK KØR DET HELE MED R23
 Ryd op i simscape -->
 	evt lav subsystems
 	få styr på transformationer, rotationer og frames
+	Hvordan ved jeg at inputtet demuxer rigtigt?
 
 opskriv lineariseret model --> også i simscape??
 lav stabilittetsanalyse af modeller
 tilføj friktion (er det egentligt bare aerodynamik?)
 tilføj sensorer? --> til at bestemme observerbarhed og kontrollerbarhed
 
-Hvordan ved jeg at inputtet demuxer rigtigt?
 
 
 ![[Pasted image 20260308114833.png]]Kinematics
@@ -39,3 +39,13 @@ Rotor model
 State-space
 
 ![[Pasted image 20260309095100.png]]
+
+
+https://andrew.gibiansky.com/blog/physics/quadcopter-dynamics/
+
+![[Pasted image 20260308121215.png]]
+
+Quadcopter rigid body dynamics
+https://catsr.vse.gmu.edu/SYST460/QuadcopterDynamics.pdf
+
+https://scholar.rose-hulman.edu/cgi/viewcontent.cgi?article=1158&context=math_mstr
